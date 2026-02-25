@@ -26,3 +26,8 @@
 - .NET SDK
 - Java 8 / 17 / 21
 - Интернет для скачивания версий и модов
+
+---
+
+<img width="1693" height="1094" alt="image" src="https://github.com/user-attachments/assets/e36afc54-2ce4-4966-9a5e-22bff13c0ba9" />
+
